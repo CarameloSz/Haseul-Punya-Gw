@@ -10,7 +10,7 @@ Click Link ->
 
 Coming Soon!
 
-[REPLIT](https://replit.com/@kabirjaipal/Jugnu-or-Best-Music-Bot-on-Replit?v=1)
+[REPLIT](https://replit.com/github/CarameloSz/Haseul-Punya-Gw)
 
 *Yes It Works on REPLIT*
 
