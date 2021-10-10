@@ -15,7 +15,7 @@ Coming Soon!
 *Yes It Works on REPLIT*
 
 **Discord Server:**
-[https://discord.gg/tVWrU5PWZV](https://discord.gg/tVWrU5PWZV)
+[Server](https://discord.gg/fqjdsyEq24)
 
 ## Special 
 This is Bot Have 24/7 Free Service
