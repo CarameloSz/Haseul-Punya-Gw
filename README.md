@@ -1,18 +1,14 @@
 # **IMPORTANT**
 
-**Make Sure You Give Credit.. Thank You**
+## 📝 Tutorial
+Click Link ->
+[Tutorial Replit](https://github.com/CarameloSz/KannaMusic/blob/main/readme.md)
 
-[Join my Support Server](https://discord.gg/tVWrU5PWZV)
+[Join my Support Server](https://discord.gg/fqjdsyEq24)
 
-## HOW TO SELFHOSt
+## HOW TO SELFHOST
 
-- download `nodejs` v12 or higher, and `ffmpeg`
-
-- install all dependeces with `npm install`
-
-- start your Bot with `node index.js`
-
-Enjoy ;)
+Coming Soon!
 
 [REPLIT](https://replit.com/@kabirjaipal/Jugnu-or-Best-Music-Bot-on-Replit?v=1)
 
@@ -23,12 +19,4 @@ Enjoy ;)
 
 ## Special 
 This is Bot Have 24/7 Free Service
-For Info CheckOut My Video
-https://youtu.be/shf7FJGpbCc
 
-## Credits
-
-[@tomato](https://github.com/Tomato6966/) For the Reacting system to messages, great Idea i adopted that [@Tomato6966/Musicium](https://github.com/Tomato6966/Musicium)
-
-Thanks For Tomato6966
-Check Out Tomato6966 Gtihub Repo
